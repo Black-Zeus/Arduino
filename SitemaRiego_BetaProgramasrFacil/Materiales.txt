@@ -1,0 +1,11 @@
+Los componentes que vas a necesitas son los siguientes:
+
+Arduino UNO
+Protoboard
+Cables
+RTC o Reloj en Tiempo Real. Modelo DS3231
+Módulo Relé
+Cable red eléctrica
+Enchufe macho y enchufe hembra
+Pulsador
+Resistencia de 10kΩ
